@@ -1,6 +1,6 @@
 # Portfolio
 This is personal portfolio project 
-I have used only HTML/CSS with responsive cards that is used in about, project and skill section.
+I have used only HTML/CSS with responsive cards that is used in project and skill section.
 Also has animation effect on text. 
 This is just a sample project that's shows my html and css basic pillar knowledge 
 
